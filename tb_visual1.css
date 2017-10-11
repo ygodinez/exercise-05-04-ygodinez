@@ -1,9 +1,9 @@
 @charset "utf-8";
 
 /*
-        Exercise:
-        Author:
-        Date:
+        Exercise:05_04 Graphic Design with CSS
+        Author:Yamilex Godinez
+        Date:10.10.17
         Visual Style Sheet for Tree and Book Family Home Page
 
 
@@ -26,7 +26,9 @@ figure img {
 figure figcaption {
         background-color: white;
         font-family: 'Palatino Linotype' , Palatino, 'Times New Roman' , serif;
-        
+font-style: italic;
+padding: 10px 0;
+text-align: center;
 }
 
 /* HTML Styles */
